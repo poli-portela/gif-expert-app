@@ -9,7 +9,7 @@ export const GifExpertApp = () => {
   };
   return (
     <>
-      <h1>GiftExpertApp</h1>
+      <h1>GifExpertApp</h1>
 
       <AddCategory onNewCategory={(event) => onAddCategory(event)} />
 
